@@ -1,2 +1,4 @@
-# Hald-wdd-130
-This is my final project for WDD 130
+# WDD 130 Final Project
+Owner: Jonathan Hald
+
+Semester: Junior
